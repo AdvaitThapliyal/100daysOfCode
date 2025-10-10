@@ -52,5 +52,6 @@ int main() {
     else
         printf("%d %d", first, last);
 
-    return 0;
+    return 0; 
+    
 }
