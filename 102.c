@@ -45,4 +45,5 @@ int main() {
     printf("%d", idx);
 
     return 0;
+    
 }
