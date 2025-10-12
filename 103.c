@@ -18,6 +18,7 @@ Output 3:
 0
 
 */
+
 #include <stdio.h>
 
 int find_pivot(int arr[], int n) {
