@@ -18,6 +18,7 @@ Output 3:
 -1
 
 */
+
 #include <stdio.h>
 #include <math.h>
 
