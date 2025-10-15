@@ -27,6 +27,7 @@ Output 4:
 -1, -1, -1, -1
 
 */
+
 #include <stdio.h>
 int main() {
     int n;
