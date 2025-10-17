@@ -13,6 +13,7 @@ Output 2:
 [0,0,9,0,0]
 
 */
+
 #include <stdio.h>
 int main() {
     int n;
