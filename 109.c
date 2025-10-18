@@ -17,6 +17,7 @@ arr[100, 200, 300, 400] = , k = 1
 Output 3:
 400
 
+
 */
 #include <stdio.h>
 int main() {
