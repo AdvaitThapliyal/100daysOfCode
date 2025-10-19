@@ -14,6 +14,7 @@ Output 2:
 5 1 3 4 2
 
 */
+
 #include <stdio.h>
 int main() {
     int n, k;
