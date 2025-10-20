@@ -16,7 +16,6 @@ Input 3:
 arr[] = [12, 1, 3, 5], k = 3
 Output 3:
 0 0
-
 */
 #include <stdio.h>
 int main() {
