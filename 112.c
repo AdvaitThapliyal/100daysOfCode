@@ -16,7 +16,6 @@ Input 3:
 arr[] = [5, 4, 1, 7, 8]
 Output 3:
 25
-
 */
 #include <stdio.h>
 int main() {
