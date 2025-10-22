@@ -11,7 +11,6 @@ Input 2:
 arr[] = [7, 10, 4, 3, 20, 15], k = 3
 Output 2:
 7
-
 */
 #include <stdio.h>
 void swap(int *a, int *b) {
