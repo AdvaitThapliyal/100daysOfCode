@@ -16,7 +16,6 @@ Input 3:
 s = "pwwkew"
 Output 3:
 3
-
 */
 #include <stdio.h>
 #include <string.h>
