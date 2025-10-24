@@ -11,7 +11,6 @@ Input 2:
 s = "rat", t = "car"
 Output 2:
 Not Anagram
-
 */
 #include <stdio.h>
 #include <string.h>
