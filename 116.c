@@ -16,7 +16,6 @@ Input 3:
 nums = [3,3], target = 6
 Output 3:
 0 1
-
 */
 #include <stdio.h>
 int main() {
